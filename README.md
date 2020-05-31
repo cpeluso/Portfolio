@@ -14,9 +14,9 @@ Another goal of this homework is to **visualize the differences produced by a li
 
 In this homework we will work with the **Caltech-101** dataset from PyTorch, which is composed of 101 categories of images such as animals or common objects.<br/>
 The purpose of this homework is to become familiar with the **PyTorch framework**, the **structure of Convolutional Neural Networks** and also to try different approaches for **Image Classification tasks in Deep Learning**, such as:
-* Training from scratch a deep model
-* Use Transfer Learning from pre-trained deep models
-* Use Data Augmentation approach<br/>
+1. Training from scratch a deep model
+2. Use Transfer Learning from pre-trained deep models
+3. Use Data Augmentation approach<br/>
 The pre-built deep model that will be used is the famous Convolutional Neural Network "**AlexNet**".
 
 #### Coding snippets:

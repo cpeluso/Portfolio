@@ -1,6 +1,13 @@
 ## Carlo Peluso - Portfolio
 ### Machine Learning / Data Science projects, coding snippets and other stuff.
 
+#### Machine Learning projects developed for the "Data Science Lab: Process and Methods" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+
+* [EXAM: Sentiment Analysis on TripAdvisor dataset using Random Forest, Logistic Regressor and LinearSVM](https://github.com/cpeluso/EXAM-TripAdvisor-Sentiment-Analysis/blob/master/EXAM%20-%20TripAdvisor%20Sentiment%20Analysis.ipynb)
+
+Project developed for the winter 2020 exam of the course "Data Science Lab: Process and Methods".
+Grade 12/12
+
 #### Machine Learning projects developed for the "Machine Learning and Deep Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 
 * [HW1: Wine Classification with the scikit-learn wine dataset using KNN, LinearSVM and RBF Kernel SVM classifiers](https://github.com/cpeluso/HW1-Wine-Classification/blob/master/HW1%20-%20Wine%20Classification.ipynb)

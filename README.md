@@ -26,6 +26,8 @@ The purpose of this homework is to become familiar with the **PyTorch framework*
 3. Use Data Augmentation approach<br/>
 The pre-built deep model that will be used is the famous Convolutional Neural Network "**AlexNet**".
 
+* [(IN PROGRESS) HW3: Deep Domain Adaptation with PACS dataset constructing a Domain Adversarial Neural Network with pretrained AlexNet layers](https://github.com/cpeluso/HW3-Deep-Domain-Adaptation/blob/master/HW3_Deep_Domain_Adaptation.ipynb)
+
 #### Coding snippets:
 
 * [Optical: A Google Calendar Optimizer.](https://github.com/cpeluso/optical) A Calendar optimizer for Google Calendar data using GoogleCalendar API v3 (https://developers.google.com/calendar/quickstart/dotnet) for .NET environments.<br/> The application retrieves the Google Calendar data of N users and finds the time slots available to set up a meeting. 

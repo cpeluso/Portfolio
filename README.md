@@ -26,7 +26,21 @@ The purpose of this homework is to become familiar with the **PyTorch framework*
 3. Use Data Augmentation approach<br/>
 The pre-built deep model that will be used is the famous Convolutional Neural Network "**AlexNet**".
 
-* [(IN PROGRESS) HW3: Deep Domain Adaptation with PACS dataset constructing a Domain Adversarial Neural Network with pretrained AlexNet layers](https://github.com/cpeluso/HW3-Deep-Domain-Adaptation/blob/master/HW3_Deep_Domain_Adaptation.ipynb)
+* [HW3: Deep Domain Adaptation with PACS dataset constructing a Domain Adversarial Neural Network with pretrained AlexNet layers](https://github.com/cpeluso/HW3-Deep-Domain-Adaptation/blob/master/HW3_Deep_Domain_Adaptation.ipynb)
+
+In this homework we will work with the **PACS dataset**, which is composed of 7 categories of images and 4 different domains (**P**hoto, **A**rt Painting, **C**artoon, **S**ketch).
+
+The purpose of this homework is to build a **Domain Adversarial Neural Network (DANN)** using the pretrained layers of the **AlexNet** in order to achieve **domain adaptation on images belonging to other domains**. <br/> 
+> The AlexNet model was chosen for this homework because we will work with **images**, while the original DANN is used to recognize **digits**. <br/>
+Moreover, the **source dataset** we will use is the **Photo** domain of the PACS dataset, that contains images from the same domain of the ImageNet dataset (which was used to train the AlexNet).
+
+To do so, I ran different experiments:
+
+* Train the network **without adaptation** on a **source domain** and test on a **target domain**
+* Train the network **with adaptation** on a **source domain** and on a **target domain** and test on the latter
+* Hyperparameters tuning, training **with** and **without adaptation** first on a **target domain T1** and then on a **target domain T2**, then testing the quality of the network with these parameters on a **target domain T**
+
+Finally, it was possible to infer some **comparisons between the different network performances**, with or without **domain adaptation**.
 
 #### Coding snippets:
 

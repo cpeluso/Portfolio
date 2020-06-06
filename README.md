@@ -26,7 +26,7 @@ The purpose of this homework is to become familiar with the **PyTorch framework*
 3. Use Data Augmentation approach<br/>
 The pre-built deep model that will be used is the famous Convolutional Neural Network "**AlexNet**".
 
-* [HW3: Deep Domain Adaptation with PACS dataset constructing a Domain Adversarial Neural Network with pretrained AlexNet layers](https://github.com/cpeluso/HW3-Deep-Domain-Adaptation/blob/master/HW3_Deep_Domain_Adaptation.ipynb)
+* [HW3: Deep Domain Adaptation with PACS dataset constructing a Domain Adversarial Neural Network with pretrained AlexNet layers](https://github.com/cpeluso/HW3-Deep-Domain-Adaptation/blob/master/HW3%20-%20Deep%20Domain%20Adaptation.ipynb)
 
 In this homework we will work with the **PACS dataset**, which is composed of 7 categories of images and 4 different domains (**P**hoto, **A**rt Painting, **C**artoon, **S**ketch).
 

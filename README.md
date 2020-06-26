@@ -8,10 +8,8 @@
 Project developed for the winter 2020 exam of the course "Data Science Lab: Process and Methods".
 Grade 12/12
 
-#### Hadoop exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+#### Hadoop and Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 * [Hadoop Exercises](https://github.com/cpeluso/Hadoop-Exercises)
-
-#### Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 * [Spark Exercises](https://github.com/cpeluso/Spark-Exercises)
 
 #### Machine Learning projects developed for the "Machine Learning and Deep Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:

@@ -11,6 +11,9 @@ Grade 12/12
 #### Hadoop exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 * [Hadoop Exercises](https://github.com/cpeluso/Hadoop-Exercises)
 
+#### Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+* [Spark Exercises](https://github.com/cpeluso/Spark-Exercises)
+
 #### Machine Learning projects developed for the "Machine Learning and Deep Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 
 * [HW1: Wine Classification with the scikit-learn wine dataset using KNN, LinearSVM and RBF Kernel SVM classifiers](https://github.com/cpeluso/HW1-Wine-Classification/blob/master/HW1%20-%20Wine%20Classification.ipynb)

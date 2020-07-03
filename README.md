@@ -9,6 +9,8 @@ Firstly we tried to re-implement the **EgoRNN model** and reproduce the original
 In order to better capture spatio-temporal correlations between the two streams, we then transformed the model in a **multiple task single-stream neural network**, forcing it to **learn joint features between the two domains thanks to a self-supervised auxiliary motion segmentation block**.
 We then further **enhance the network with an additional self-supervised pretext task that drives the network to better learn temporal correlations** between frames. Multiple experiments are carried out in order to assess the effectiveness of the adopted techniques.
 
+---
+
 #### Machine Learning projects developed for the "Data Science Lab: Process and Methods" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 
 * [EXAM: Sentiment Analysis on TripAdvisor dataset using Random Forest, Logistic Regressor and LinearSVM](https://github.com/cpeluso/EXAM-TripAdvisor-Sentiment-Analysis/blob/master/EXAM%20-%20TripAdvisor%20Sentiment%20Analysis.ipynb)
@@ -16,9 +18,7 @@ We then further **enhance the network with an additional self-supervised pretext
 Project developed for the winter 2020 exam of the course "Data Science Lab: Process and Methods".
 Grade 12/12
 
-#### Hadoop and Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 28/30):
-* [Hadoop Exercises](https://github.com/cpeluso/Hadoop-Exercises)
-* [Spark Exercises](https://github.com/cpeluso/Spark-Exercises)
+---
 
 #### Machine Learning projects developed for the "Machine Learning and Deep Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 27/30):
 
@@ -53,6 +53,14 @@ To do so, I ran different experiments:
 * Hyperparameters tuning, training **with** and **without adaptation** first on a **target domain T1** and then on a **target domain T2**, then testing the quality of the network with these parameters on a **target domain T**
 
 Finally, it was possible to infer some **comparisons between the different network performances**, with or without **domain adaptation**.
+
+---
+
+#### Hadoop and Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 28/30):
+* [Hadoop Exercises](https://github.com/cpeluso/Hadoop-Exercises)
+* [Spark Exercises](https://github.com/cpeluso/Spark-Exercises)
+
+---
 
 #### Coding snippets:
 

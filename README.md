@@ -8,11 +8,19 @@
 Project developed for the winter 2020 exam of the course "Data Science Lab: Process and Methods".
 Grade 12/12
 
-#### Hadoop and Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+#### Hadoop and Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 28/30):
 * [Hadoop Exercises](https://github.com/cpeluso/Hadoop-Exercises)
 * [Spark Exercises](https://github.com/cpeluso/Spark-Exercises)
 
-#### Machine Learning projects developed for the "Machine Learning and Deep Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+#### First Person Action Recognition (E. Ilas, C.Peluso, M. Vassallo)
+* [Report](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079189097)&section=education%3A613070153&treasuryCount=2), [presentation slides](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079052649)&section=education%3A613070153&treasuryCount=2), [code](https://github.com/mldl2020/FirstPersonActionRecognition)
+
+The aim of the project was to implement a **trainable deep neural network model** for **egocentric activity recognition**. 
+Firstly we tried to re-implement the **EgoRNN model** and reproduce the original experiments, involving a multiple stage training. Such model adopts a two-stream architecture, relying on spatial attention mechanisms that stimulate the network to attend to regions containing important objects related to the activity under consideration, and on optical flow in order to extract motion features.
+In order to better capture spatio-temporal correlations between the two streams, we then transformed the model in a **multiple task single-stream neural network**, forcing it to **learn joint features between the two domains thanks to a self-supervised auxiliary motion segmentation block**.
+We then further **enhance the network with an additional self-supervised pretext task that drives the network to better learn temporal correlations** between frames. Multiple experiments are carried out in order to assess the effectiveness of the adopted techniques.
+
+#### Machine Learning projects developed for the "Machine Learning and Deep Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 27/30):
 
 * [HW1: Wine Classification with the scikit-learn wine dataset using KNN, LinearSVM and RBF Kernel SVM classifiers](https://github.com/cpeluso/HW1-Wine-Classification/blob/master/HW1%20-%20Wine%20Classification.ipynb)
 

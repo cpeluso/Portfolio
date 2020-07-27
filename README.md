@@ -11,7 +11,7 @@ We then further **enhance the network with an additional self-supervised pretext
 
 ---
 
-#### Machine Learning projects developed for the "Data Science Lab: Process and Methods" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+#### Machine Learning projects developed for the "Data Science Lab: Process and Methods" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 29/30):
 
 * [EXAM: Sentiment Analysis on TripAdvisor dataset using Random Forest, Logistic Regressor and LinearSVC](https://github.com/cpeluso/EXAM-TripAdvisor-Sentiment-Analysis/blob/master/EXAM%20-%20TripAdvisor%20Sentiment%20Analysis.ipynb)
 
@@ -21,7 +21,7 @@ Grade 12/12
 * [EXAM: Text classification on BlackLivesMatter tweets dataset using Random Forest, Logistic Regressor, SGD Classifier, SVC and LinearSVC ](https://github.com/cpeluso/EXAM-BlackLivesMatter-Tweets-Classification/blob/master/EXAM-BlackLivesMatter-Tweets-Classification.ipynb)
 
 Project developed for the summer 2020 exam of the course "Data Science Lab: Process and Methods".
-Grade ?/12
+Grade 12/12
 
 ---
 

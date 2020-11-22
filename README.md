@@ -61,6 +61,12 @@ Finally, it was possible to infer some **comparisons between the different netwo
 
 ---
 
+#### Machine Learning and Deep Learning projects developed for the "Bioinformatics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+
+* [LAB1 - Sequences generation, analysis and consensus region detection](https://github.com/cpeluso/Bioinformatics-LAB1/blob/main/LAB1.ipynb)
+
+---
+
 #### Hadoop and Spark exercises of the "Distributed Architectures for Big Data processing and analytics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 28/30):
 * [Hadoop Exercises](https://github.com/cpeluso/Hadoop-Exercises)
 * [Spark Exercises](https://github.com/cpeluso/Spark-Exercises)

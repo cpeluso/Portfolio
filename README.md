@@ -64,6 +64,7 @@ Finally, it was possible to infer some **comparisons between the different netwo
 #### Machine Learning and Deep Learning projects developed for the "Bioinformatics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
 
 * [LAB1 - Sequences generation, analysis and consensus region detection](https://github.com/cpeluso/Bioinformatics-LAB1/blob/main/LAB1.ipynb)
+* [LAB2 - Sequences global and local alignment using Dynamic Programming approach](https://github.com/cpeluso/Bioinformatics-LAB2/blob/main/LAB2.ipynb)
 
 ---
 

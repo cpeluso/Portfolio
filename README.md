@@ -67,7 +67,8 @@ Finally, it was possible to infer some **comparisons between the different netwo
 * [LAB2 - Sequences global and local alignment using Dynamic Programming approach](https://github.com/cpeluso/Bioinformatics-LAB2/blob/main/LAB2.ipynb)
 * [LAB3 - Genes data extraction and manipulation from SAM, BAM, GFF and VCF files](https://github.com/cpeluso/Bioinformatics-LAB3/blob/main/LAB3.ipynb)
 * [LAB5 - Feature selection on gene expression data, classification for Luminal A / Luminal B breast cancer subtypes](https://github.com/cpeluso/Bioinformatics-LAB5/blob/main/LAB5.ipynb)
-* [LAB6 - Training from scratch, use as Feature Extractor and fine tune a VGG16 Convolutional Neural Network on Colorectal Cancer Dataset](https://github.com/cpeluso/Bioinformatics-LAB6/blob/main/LAB6.ipynb)
+* [Extra 1 - Training from scratch, use as Feature Extractor and fine tune a VGG16 Convolutional Neural Network on Colorectal Cancer Dataset](https://github.com/cpeluso/Bioinformatics-EXTRA1/blob/main/EXTRA1.ipynb)
+* [Extra 2 - WIP](https://github.com/cpeluso/Bioinformatics-EXTRA2/blob/main/EXTRA2.ipynb)
 
 ---
 

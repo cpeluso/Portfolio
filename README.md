@@ -70,6 +70,7 @@ Finally, it was possible to infer some **comparisons between the different netwo
 * [LAB6 - Bayesian CNN and standard CNN approaches on Oncogenic dataset](https://github.com/cpeluso/Bioinformatics-LAB6/blob/main/LAB6.ipynb)
 * [LAB7 - Fashion MNIST hallucination using DCGAN](https://github.com/cpeluso/Bioinformatics-LAB7/blob/main/LAB7.ipynb)
 * [LAB8 - Multi-omics classification: early / late Data Integration and Features Selection](https://github.com/cpeluso/Bioinformatics-LAB8/blob/main/LAB8.ipynb)
+* [LAB9 - Autoencoders (standard, with perceptual loss, variational, beta-variational) on Colorectal Histology dataset](https://github.com/cpeluso/Bioinformatics-LAB9/blob/main/LAB9.ipynb)
 * [Extra 1 - Training from scratch, use as Feature Extractor and fine tune a VGG16 Convolutional Neural Network on Colorectal Cancer Dataset](https://github.com/cpeluso/Bioinformatics-EXTRA1/blob/main/EXTRA1.ipynb)
 * [Extra 2 - Bayesian CNN overview](https://github.com/cpeluso/Bioinformatics-EXTRA2/blob/main/EXTRA2.ipynb)
 

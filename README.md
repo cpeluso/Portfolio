@@ -1,5 +1,5 @@
 ## Carlo Peluso - Portfolio
-### Machine Learning / Deep Learning / Data Analysis projects, coding snippets and more.
+### Machine Learning / Deep Learning / Data Analytics projects, coding snippets and more.
 
 #### First Person Action Recognition (E. Ilas, C. Peluso, M. Vassallo)
 * [Report](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079189097)&section=education%3A613070153&treasuryCount=2), [presentation slides](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079052649)&section=education%3A613070153&treasuryCount=2), [code](https://github.com/mldl2020/FirstPersonActionRecognition)

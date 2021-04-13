@@ -83,6 +83,9 @@ Finally, it was possible to infer some **comparisons between the different netwo
 
 ---
 
+#### Projects developed for the "Technologies for Autonomous Vehicles" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+* [Lane Detection: data processing for vehicle's cameras images](https://github.com/cpeluso/Lane-Detection/blob/main/lane_detection.md)
+
 #### Coding snippets:
 
 * [Optical: A Google Calendar Optimizer.](https://github.com/cpeluso/optical) A Calendar optimizer for Google Calendar data using GoogleCalendar API v3 (https://developers.google.com/calendar/quickstart/dotnet) for .NET environments.<br/> The application retrieves the Google Calendar data of N users and finds the time slots available to set up a meeting. 

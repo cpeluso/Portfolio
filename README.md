@@ -1,6 +1,22 @@
 ## Carlo Peluso - Portfolio
 ### Machine Learning / Deep Learning / Data Analytics projects, coding snippets and more.
 
+#### Gene expression abundance prediction from gene sequence (V. Pipoli, M. Cappelli, C. Peluso, A. Palladini)
+* _Writing paper..._
+
+**Gene expression** is the process of producing a functional product from the instructions stored in the DNA. **Predicting the abundance levels of these products** - so, predicting the gene expression levels - is interesting for several applications, from drug discovery to pathway enrichment analysis. 
+
+Several studies in the field of Machine Learning were proposed to tackle this challenge (often addressed using genome sequences solely exploiting Deep Learning solutions, whose latest architectures have become more and more sophisticated and capable of reaching better performances. 
+
+Convolutional Neural Networks were adopted to address several additional tasks, ranging from predicting tissue-specific expression having long promoter-proximal sequences (ExPecto, Zouh et al., 2018) to predicting from sample's genome sequences the raw counts of an element within a specific region (Basenji, Kelley et al., 2018). 
+
+Cutting-edge deep architectures were then proposed bringing further improvements: the Enformer network (Avsec et al., 2021) takes steps forward compared to Basenji by introducing a Transformer architecture \cite{transformer} to integrate long-range interactions in the genome. 
+
+Regarding the solutions for predicting gene expression levels directly from the DNA sequence, **Xpresso** (Agarwal and Shendure, 2018) is the primary reference for this work. In 2020, Zhang et al. outperformed Xpresso and the adopted versions of ExPecto and Basenji with ExpResNet, a Residual Neural Network trained on GTEx data. 
+
+In this work, we propose **two methodological approaches that outperform Xpresso** in **performances** and **stability**. 
+**An additional data source** for reaching even higher accuracies is then presented and analyzed.
+
 #### First Person Action Recognition (E. Ilas, C. Peluso, M. Vassallo)
 * [Report](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079189097)&section=education%3A613070153&treasuryCount=2), [presentation slides](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079052649)&section=education%3A613070153&treasuryCount=2), [code](https://github.com/mldl2020/FirstPersonActionRecognition)
 

@@ -61,7 +61,7 @@ Finally, it was possible to infer some **comparisons between the different netwo
 
 ---
 
-#### Data Extraction, Machine Learning and Deep Learning projects developed for the "Bioinformatics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+#### Data Extraction, Machine Learning and Deep Learning projects developed for the "Bioinformatics" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 30/30):
 
 * [LAB1 - Sequences generation, analysis and consensus region detection](https://github.com/cpeluso/Bioinformatics-LAB1/blob/main/LAB1.ipynb)
 * [LAB2 - Sequences global and local alignment using Dynamic Programming approach](https://github.com/cpeluso/Bioinformatics-LAB2/blob/main/LAB2.ipynb)
@@ -83,7 +83,7 @@ Finally, it was possible to infer some **comparisons between the different netwo
 
 ---
 
-#### Projects developed for the "Technologies for Autonomous Vehicles" course @ Data Science and Engineering Master's Degree at Politecnico di Torino:
+#### Projects developed for the "Technologies for Autonomous Vehicles" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 27/30):
 * [Lane Detection: data processing for vehicle's cameras images](https://github.com/cpeluso/Lane-Detection/blob/main/lane_detection.md)
 
 ---

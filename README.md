@@ -2,20 +2,18 @@
 ### Machine Learning / Deep Learning / Data Analytics projects, coding snippets and more.
 
 #### Gene expression abundance prediction from gene sequence (V. Pipoli, M. Cappelli, C. Peluso, A. Palladini)
-* _Writing paper..._
 
-**Gene expression** is the process of producing a functional product from the instructions stored in the DNA. **Predicting the abundance levels of these products** - so, predicting the gene expression levels - is interesting for several applications, from drug discovery to pathway enrichment analysis. 
+In the latest years, the **prediction of gene expression levels** has been crucial due to its potential applications in clinical analysis. <br>
+In this context, **Xpresso** and many other methods based on Convolutional Neural Networks and Transformers were firstly proposed to this aim. 
 
-Several studies in the field of Machine Learning were proposed to tackle this challenge (often addressed using genome sequences solely exploiting Deep Learning solutions, whose latest architectures have become more and more sophisticated and capable of reaching better performances. 
+However, all these methods embed data with a standard one-hot encoding algorithm, resulting in **impressively sparse matrices**. In addition, **post-transcriptional regulation processes**, which are incredibly relevant in the gene expression process, **are not considered in the model**.
 
-Convolutional Neural Networks were adopted to address several additional tasks, ranging from predicting tissue-specific expression having long promoter-proximal sequences (ExPecto, Zouh et al., 2018) to predicting from sample's genome sequences the raw counts of an element within a specific region (Basenji, Kelley et al., 2018). 
+Therefore, this paper presents **Transformer DeepLncLoc**, *a novel method to predict the abundance of the mRNA* (i.e., gene expression levels) *by processing gene promoter sequences*, managing the problem as a regression task. <br>
+The model exploits a **transformer-based architecture**, introducing the **DeepLncLoc method** to perform the data embedding. 
 
-Cutting-edge deep architectures were then proposed bringing further improvements: the Enformer network (Avsec et al., 2021) takes steps forward compared to Basenji by introducing a Transformer architecture \cite{transformer} to integrate long-range interactions in the genome. 
+In addition, extra information related to mRNA stability and transcription factors are included in the model, leading to significantly improved performances compared to the state-of-the-art works. 
 
-Regarding the solutions for predicting gene expression levels directly from the DNA sequence, **Xpresso** (Agarwal and Shendure, 2018) is the primary reference for this work. In 2020, Zhang et al. outperformed Xpresso and the adopted versions of ExPecto and Basenji with ExpResNet, a Residual Neural Network trained on GTEx data. 
-
-In this work, we propose **two methodological approaches that outperform Xpresso** in **performances** and **stability**. 
-**An additional data source** for reaching even higher accuracies is then presented and analyzed.
+**TransformerDeepLncLoc** reached 0.76 of R2, compared to 0.74 of **Xpresso**.
 
 #### First Person Action Recognition (E. Ilas, C. Peluso, M. Vassallo)
 * [Report](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079189097)&section=education%3A613070153&treasuryCount=2), [presentation slides](https://www.linkedin.com/in/cpeluso/detail/treasury/education:613070153/?entityUrn=urn%3Ali%3Afsd_profileTreasuryMedia%3A(ACoAACTYnZwBjpZIH3qbOmmhp8gjeGX5maT7Bzc%2C1593079052649)&section=education%3A613070153&treasuryCount=2), [code](https://github.com/mldl2020/FirstPersonActionRecognition)

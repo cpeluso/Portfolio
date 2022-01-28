@@ -93,7 +93,7 @@ Finally, it was possible to infer some **comparisons between the different netwo
 
 #### Data Analysis project developed for the "Mathematics in Machine Learning" course @ Data Science and Engineering Master's Degree at Politecnico di Torino (Grade 30/30):
 
-* [Hourly Interstate 94 Westbound traffic volume analysis - Report](https://github.com/cpeluso/94-interstate-westbound-traffic-analysis)
+* [Hourly Interstate 94 Westbound traffic volume analysis - Report](https://github.com/cpeluso/94-interstate-westbound-traffic-analysis/blob/main/s280203_peluso_mml_report.pdf)
 
 The aim of this project is to analyse the **Metro Interstate Traffic Volume dataset** - downloaded from the UCI repository - which was designed to **predict the hourly Interstate 94 Westbound traffic volume by means of weather and holidays information**.<br/>
 
